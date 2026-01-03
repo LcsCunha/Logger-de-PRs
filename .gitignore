@@ -1,0 +1,6 @@
+Database - notion/
+.vscode/
+Logs de PRs.txt
+app/__pycache__
+.venv/
+.venv2/
